@@ -11,9 +11,7 @@ Sneakyzx/Sneakyzx is a ✨ special ✨ repository because its `README.md` (this 
 You can click the Preview link to take a look at your changes.
 --->
 <!-- Trungquandev -->
-<a href="#" target="_blank">
-  <img src="/trungquandev.svg" width="1200" alt="trungquandev-official" />
-</a>
+
 
 <h2 align="center">🛠 Technologies and Tools 🛠</h2>
 <br>
